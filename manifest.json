@@ -1,0 +1,11 @@
+{
+	"id": "open-in-vscode",
+	"name": "Open in vscode",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Open acitive file in vscode",
+	"author": "rybcom",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
